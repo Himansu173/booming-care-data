@@ -1,4 +1,5 @@
-[
+{
+    "plants": [
         {
             "id": 1,
             "common_name": "Tree Clover",
@@ -576,3 +577,4 @@
             "image_url": "./src/assets/image 4.png"
         }
     ]
+}
